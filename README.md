@@ -1,7 +1,7 @@
 # 说明文档
 
 ## 计算原理
-<img width="1136" height="743" alt="微信图片_20260528174055_62_10" src="https://github.com/user-attachments/assets/20ac55b3-f24a-4534-83b2-3427d10309fe" />
+![说明图片](img/计算原理.png)
 
 ## 功能
 根据袖山弧线、后AH、前AH自动计算总吃势量，并分段（上/中/下）分配吃势到后片与前片。
